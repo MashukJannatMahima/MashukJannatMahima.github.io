@@ -20,7 +20,7 @@ nav a:hover {
 }
 .profile-pic {
   width: 150px;
-  border-radius: 50%;
+  border-radius: 0;
 }
 footer {
   margin-top: 50px;
